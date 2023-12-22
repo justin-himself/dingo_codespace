@@ -1,2 +1,4 @@
 # dingo_codespace
-A codespace for dingo 
+
+## How to use
+
