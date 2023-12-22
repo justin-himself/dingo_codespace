@@ -1,5 +1,7 @@
 # dingo_codespace
 
+> Not for production use
+
 ## Quickstart
 
 1. Fork the repo
